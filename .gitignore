@@ -1,0 +1,26 @@
+# --- Secrets: never commit ---
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
+*secret*
+*Secret*
+
+# --- Output from live runs (may contain tenant-specific data) ---
+tests/integration/output/
+assessment-output/
+*.log
+
+# --- Test / tooling output ---
+testResults.xml
+coverage.xml
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/

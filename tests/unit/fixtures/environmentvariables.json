@@ -1,0 +1,9 @@
+{
+  "value": [
+    { "schemaname": "contoso_ApiBaseUrl", "displayname": "API Base URL", "type": 100000000, "defaultvalue": "https://example.invalid", "environmentvariabledefinition_environmentvariablevalue": [ { "value": "https://example.invalid/v2" } ] },
+    { "schemaname": "contoso_BatchSize", "displayname": "Batch Size", "type": 100000001, "defaultvalue": "50", "environmentvariabledefinition_environmentvariablevalue": [] },
+    { "schemaname": "contoso_FeatureFlag", "displayname": "Feature Flag", "type": 100000002, "defaultvalue": null, "environmentvariabledefinition_environmentvariablevalue": [] },
+    { "schemaname": "contoso_ApiKey", "displayname": "API Key", "type": 100000005, "defaultvalue": null, "environmentvariabledefinition_environmentvariablevalue": [ { "value": "keyvault-reference" } ] },
+    { "schemaname": "contoso_Weird", "displayname": "Unknown type", "type": 999, "defaultvalue": "", "environmentvariabledefinition_environmentvariablevalue": [ { "value": "" } ] }
+  ]
+}

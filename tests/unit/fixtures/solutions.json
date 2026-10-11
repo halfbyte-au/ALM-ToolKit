@@ -1,0 +1,9 @@
+{
+  "value": [
+    { "uniquename": "CenterofExcellenceALMAccelerator", "friendlyname": "ALM Accelerator for Power Platform", "version": "1.0.0.0", "ismanaged": true, "installedon": "2024-01-01T00:00:00Z" },
+    { "uniquename": "ALMAcceleratorSampleSolution", "friendlyname": "ALM Accelerator Sample Solution", "version": "1.0.0.0", "ismanaged": false, "installedon": "2024-01-01T00:00:00Z" },
+    { "uniquename": "contoso_Expenses", "friendlyname": "Expense Tracker", "version": "2.3.0.1", "ismanaged": false, "installedon": "2024-01-01T00:00:00Z" },
+    { "uniquename": "Default", "friendlyname": "Common Data Services Default Solution", "version": "1.0", "ismanaged": false, "installedon": "2024-01-01T00:00:00Z" },
+    { "uniquename": "fabrikam_AlmTools", "friendlyname": "Team ALM Tools", "version": "1.0", "ismanaged": false, "installedon": "2024-01-01T00:00:00Z" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "value": [
+    { "connectionreferencelogicalname": "contoso_sharedcommondataserviceforapps_1a2b3", "connectionreferencedisplayname": "Dataverse", "connectorid": "/providers/Microsoft.PowerApps/apis/shared_commondataserviceforapps", "connectionid": "00000000000000000000000000000001" },
+    { "connectionreferencelogicalname": "contoso_sharedoffice365_4c5d6", "connectionreferencedisplayname": "Office 365 Outlook", "connectorid": "/providers/Microsoft.PowerApps/apis/shared_office365", "connectionid": null },
+    { "connectionreferencelogicalname": "contoso_custom_7e8f9", "connectionreferencedisplayname": "Custom API", "connectorid": null, "connectionid": "" }
+  ]
+}
